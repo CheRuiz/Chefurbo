@@ -1389,3 +1389,13 @@
 20:30;Basketball Champions League Liga Regular;Filou Oostende;King Szczecin;DAZN (Regístrate);
 20:30;FIBA Europe Cup;Hubo Limburg United;Szolnoki Olaj;FIBA YouTube;
 20:50;Torneo de Metz 2ª Ronda;C. Moutet;JL. Struff;ATP Tennis TV;
+07:00;Dubai Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:10;Torneo de Belgrado 1ª Ronda;R. Safiullin;F. Fognini;ATP Tennis TV;
+12:40;Torneo de Belgrado 2ª Ronda;A. Kovacevic;H. Medjedovic;ATP Tennis TV;
+14:10;Torneo de Metz 2ª Ronda;A. Rublev;L. Sonego;ATP Tennis TV;
+15:10;Torneo de Belgrado 1ª Ronda;L. Djere;S. Wawrinka;ATP Tennis TV;
+16:20;Torneo de Metz 1ª Ronda;A. Mannarino;Y. Bu;ATP Tennis TV;
+16:55;Torneo de Belgrado 2ª Ronda;M. Cilic;J. Lehecka;ATP Tennis TV;
+18:20;Torneo de Metz 2ª Ronda;A. Michelsen;R. Gasquet;ATP Tennis TV;
+19:00;Copa del Rey 1ª Ronda;Chiclana CF;Osasuna;M+ Copa del Rey (M52 O107);LaLiga TV M2;
+20:50;Torneo de Metz 2ª Ronda;C. Moutet;JL. Struff;ATP Tennis TV;
