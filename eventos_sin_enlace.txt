@@ -1563,3 +1563,14 @@
 20:30;FIBA Europe Cup;Cholet Basket;Telenet Giants Antwerp;FIBA YouTube;
 20:30;FIBA Europe Cup;Spirou Charleroi;Norrköping Dolphins;FIBA YouTube;
 21:00;FIBA Europe Cup;FC Porto CB;PAOK Salónica;FIBA YouTube;
+07:00;Dubai Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:10;Torneo de Belgrado 2ª Ronda;F. Cerúndolo;R. Safiullin;ATP Tennis TV;
+13:00;Torneo de Belgrado 2ª Ronda;D. Shapovalov;N. Borges;ATP Tennis TV;
+14:10;Torneo de Metz 2ª Ronda;PH. Herbert;Q. Halys;ATP Tennis TV;
+15:05;Torneo de Belgrado 2ª Ronda;F. Marozsan;D. Lajovic;ATP Tennis TV;
+16:35;Torneo de Metz 2ª Ronda;L. Van Assche;C. Norrie;ATP Tennis TV;
+16:40;Torneo de Belgrado 2ª Ronda;D. Ajdukovic;L. Djere;ATP Tennis TV;
+19:00;Copa del Rey 1ª Ronda;Xerez;AD Ceuta;Canal por confirmar;
+19:00;Torneo de Metz 2ª Ronda;B. Bonzi;C. Ruud;ATP Tennis TV;
+20:00;Amistoso;Portugal;España;RTVE Play;
+20:30;Torneo de Metz 2ª Ronda;Y. Bu;J. De Jong;ATP Tennis TV;
