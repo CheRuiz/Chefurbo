@@ -10,6 +10,7 @@
 03:00;NBA Liga Regular;Phoenix Suns;Miami Heat;NBA League Pass;
 04:00;NBA Liga Regular;Los Angeles Clippers;Philadelphia 76ers;NBA League Pass;
 04:00;NBA Liga Regular;Sacramento Kings;Toronto Raptors;NBA League Pass;
+09:00;Dubai Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 11:10;Torneo de Belgrado 1/4 de Final;L. Klein;J. Lehecka;ATP Tennis TV;
 13:30;Torneo de Belgrado 1/4 de Final;C. O'Connell;D. Shapovalov;ATP Tennis TV;
 13:45;WTA Finals Round Robin;I. Swiatek;D. Kasatkina;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
