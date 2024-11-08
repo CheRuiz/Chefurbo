@@ -1905,3 +1905,7 @@
 20:30;Eurobasket Femenino Fase de Clasificación;Polonia;Azerbaiyán;FIBA YouTube;
 20:45;Eurobasket Femenino Fase de Clasificación;Bélgica;Lituania;FIBA YouTube;
 21:10;Eurobasket Femenino Fase de Clasificación;Francia;Israel;FIBA YouTube;
+15:00;Torneo de Belgrado Semifinal 1 ATP 250;J. Lehecka;D. Shapovalov;ATP Tennis TV;
+15:30;Torneo de Metz Semifinal 1 ATP 250;C. Moutet;C. Norrie;ATP Tennis TV;
+16:30;Torneo de Belgrado Semifinal 2 ATP 250;L. Djere;H. Medjedovic;ATP Tennis TV;
+18:00;Torneo de Metz Semifinal 2 ATP 250;A. Michelsen;B. Bonzi;ATP Tennis TV;
