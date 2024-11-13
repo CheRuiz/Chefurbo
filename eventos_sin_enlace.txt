@@ -2705,3 +2705,4 @@
 20:30;FIBA Europe Cup;Caledonia Gladiators;BC Trepca;FIBA YouTube;
 20:30;FIBA Europe Cup;Sporting CP CB;Anwil Wloclawek;FIBA YouTube;
 21:00;Basketball Champions League Liga Regular;La Laguna Tenerife;Saint-Quentin Basketball;DAZN (Regístrate);
+10:00;Kuwait Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
