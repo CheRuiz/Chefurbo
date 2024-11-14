@@ -2966,3 +2966,5 @@
 04:00;NBA Liga Regular;Sacramento Kings;Phoenix Suns;NBA League Pass;
 10:00;Kuwait Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 18:00;Copa del Rey 1ª Ronda;Ejea;Hércules;Aragón Deporte;Aragón TV;
+10:00;Kuwait Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+18:00;Copa del Rey 1ª Ronda;Ejea;Hércules;Aragón Deporte;Aragón TV;
