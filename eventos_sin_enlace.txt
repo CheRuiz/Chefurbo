@@ -3257,3 +3257,6 @@
 18:00;Primera FEB Liga Regular;Gipuzkoa Basket;Baloncesto Fuenlabrada;LaLiga+ Plus;
 20:00;Lega Serie A Liga Regular;Virtus Bologna;Dinamo Sassari;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 23:00;NBA Liga Regular;Indiana Pacers;Miami Heat;NBA League Pass;
+01:00;Velada Peso Gallo;D. Crowder;D. Micah;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+02:00;UFC UFC 309;J. Jones;S. Miocic;MAX;
+05:45;Supercars Championship;Adelaide Street Circuit;Carrera 2;DAZN (Regístrate);
