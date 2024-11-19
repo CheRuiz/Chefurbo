@@ -1,3 +1,11 @@
+01:00;NBA Liga Regular;Detroit Pistons;Chicago Bulls;NBA League Pass;
+01:30;NBA Liga Regular;Miami Heat;Philadelphia 76ers;NBA League Pass;
+01:30;NBA Liga Regular;New York Knicks;Washington Wizards;NBA League Pass;
+01:30;NBA Liga Regular;Toronto Raptors;Indiana Pacers;NBA League Pass;
+02:00;NBA Liga Regular;Milwaukee Bucks;Houston Rockets;M+ Deportes (63);
+03:00;NBA Liga Regular;Phoenix Suns;Orlando Magic;NBA League Pass;
+04:00;NBA Liga Regular;Sacramento Kings;Atlanta Hawks;NBA League Pass;
+04:30;NBA Liga Regular;Los Angeles Clippers;Golden State Warriors;NBA League Pass;
 10:00;MotoGP;Test de pretemporada;Sesión mañana;DAZN (Regístrate);
 12:00;Billie Jean King Cup Semifinal 2 Partido 1;Gran Bretaña;Eslovaquia;M+ Ellas Vamos (66);Movistar+ Lite;
 13:00;Salta Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;
