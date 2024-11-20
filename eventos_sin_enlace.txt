@@ -3657,3 +3657,7 @@
 20:30;Primera Federación Futsal;Noia Portus Apostoli FS;Jimbee Cartagena FS;FEF TV;
 21:30;Primera Federación Futsal;Industrias Santa Coloma;Jaén FS;FEF TV;
 21:30;Primera Federación Futsal;Movistar Inter;Servigroup Peñiscola FS;FEF TV;
+15:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
+20:30;Primera Federación Futsal;Noia Portus Apostoli FS;Jimbee Cartagena FS;FEF TV;
+21:30;Primera Federación Futsal;Industrias Santa Coloma;Jaén FS;FEF TV;
+21:30;Primera Federación Futsal;Movistar Inter;Servigroup Peñiscola FS;FEF TV;
