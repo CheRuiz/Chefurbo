@@ -3699,3 +3699,5 @@
 21:30;Eurocup Women;Benfica CB;Besiktas JK Istanbul;FIBA YouTube;
 22:30;Eurocup Women;Uniao Sportiva Azoris;Galatasaray Istanbul;FIBA YouTube;
 23:40;FIBA AmeriCup;Paraguay;Panamá;DAZN (Regístrate);
+01:00;WRC Rally;Rally de Japón;Shakedown › SS1;DAZN (Regístrate);
+15:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
