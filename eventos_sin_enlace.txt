@@ -4499,3 +4499,6 @@
 22:00;FIBA AfroBasket Fase de Clasificación;Gabón;Ruanda;DAZN (Regístrate);
 23:00;NBA Liga Regular;Indiana Pacers;Washington Wizards;NBA League Pass;
 23:40;FIBA AmeriCup Fase de Clasificación;Paraguay;Uruguay;DAZN (Regístrate);
+00:35;WRC Rally;Rally de Japón;SS17 › SS22;DAZN (Regístrate);
+01:00;New York Open;Final;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;Tennis Channel (Orange 123);GolStadium (acceder);
+13:00;Primera Federación Futsal;Manzanares FS;Noia Portus Apostoli FS;FEF TV;
