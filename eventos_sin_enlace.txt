@@ -5009,3 +5009,9 @@
 20:30;Futsal Champions League Ronda Élite;Jimbee Cartagena FS;Riga FS;La 7 YouTube;
 21:00;México Major;3ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 22:30;Eurocup Women Liga Regular;Uniao Sportiva Azoris;BAXI Ferrol;FIBA YouTube;TVG2 (Galicia);
+16:00;Velada Peso Medio;S. Albaher;A. Al-Fakhri;DAZN (Regístrate);
+17:30;Futsal Champions League Ronda Élite;Catania C5;United Galati;La 7 YouTube;
+19:00;Velada Peso Supergallo;A. Katompa;S. Ngebinyana;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+19:30;Futsal Champions League Ronda Élite;Palma Futsal;Futsal Klub Lučenec;Esports IB3 YouTube;
+20:30;Futsal Champions League Ronda Élite;Jimbee Cartagena FS;Riga FS;La 7 YouTube;
+21:00;México Major;3ª Ronda;Premier Padel Tour;Premier Padel YouTube;
