@@ -5470,3 +5470,5 @@
 04:00;NBA Liga Regular;Los Angeles Clippers;Denver Nuggets;NBA League Pass;
 10:00;Milan Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 15:30;Copa Davis;Sorteo 1ª Ronda;Temporada 2025;ITF Tennis YouTube;
+10:00;Milan Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+15:30;Copa Davis;Sorteo 1ª Ronda;Temporada 2025;ITF Tennis YouTube;
