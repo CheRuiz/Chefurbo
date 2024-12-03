@@ -11,6 +11,7 @@
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;FC Bayern Basketball;M+ Deportes 6 (193);
 19:00;Amistoso Femenino;España;Italia;Teledeporte;RTVE Play;
 19:00;Copa del Rey 2ª Ronda;Real Ávila;Real Valladolid;M+ LaLiga TV 4 (M168 O271);LaLiga TV M5;
+19:00;La Liga EA Sports;Mallorca;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 20:00;Copa del Rey 2ª Ronda;Yeclano;Elche;ace_ids.txt canal_html.txt date_01-11-2024.txt date_01-12-2024.txt date_02-11-2024.txt date_02-12-2024.txt date_03-11-2024.txt date_03-12-2024.txt date_04-11-2024.txt date_05-11-2024.txt date_06-11-2024.txt date_07-11-2024.txt date_08-11-2024.txt date_09-11-2024.txt date_10-11-2024.txt date_11-11-2024.txt date_12-11-2024.txt date_13-11-2024.txt date_14-11-2024.txt date_15-11-2024.txt date_16-11-2024.txt date_17-11-2024.txt date_18-11-2024.txt date_19-11-2024.txt date_20-11-2024.txt date_21-11-2024.txt date_22-11-2024.txt date_23-11-2024.txt date_24-11-2024.txt date_25-11-2024.txt date_26-11-2024.txt date_27-11-2024.txt date_28-11-2024.txt date_29-11-2024.txt date_30-10-2024.txt date_30-11-2024.txt date_31-10-2024.txt estilo.css eventos.sh eventos_sin_enlace.txt generador_html.sh getElcanoWeb.py index.html SIN TV EN DIRECTO *;
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Dreamland Gran Canaria;M+ Deportes 3 (65);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Real Madrid Baloncesto;M+ Deportes 2 (64);
