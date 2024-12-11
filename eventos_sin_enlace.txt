@@ -6889,3 +6889,4 @@
 20:45;Primera FEB Liga Regular;TAU Castelló;Basquet Menorca;LaLiga+ Plus;
 20:45;Primera FEB Liga Regular;UEMC RV Baloncesto;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
 21:00;FIBA Europe Cup;FC Porto CB;Tofas Bursa;FIBA YouTube;
+09:00;Velada Peso Semipesado;C. Wallace;A. Vellem;DAZN (Regístrate);
