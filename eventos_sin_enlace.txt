@@ -6912,3 +6912,14 @@
 20:45;Primera FEB Liga Regular;UEMC RV Baloncesto;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
 21:00;FIBA Europe Cup;FC Porto CB;Tofas Bursa;FIBA YouTube;
 09:00;Velada Peso Semipesado;C. Wallace;A. Vellem;DAZN (Regístrate);
+18:00;Eurocup Women Play-Off;BC Constanta;Villeneuve d'Ascq LM;FIBA YouTube;
+18:00;Eurocup Women Play-Off;BC Neptunas;Basket Montpellier;FIBA YouTube;
+18:00;Eurocup Women Play-Off;Crvena Zvezda MTS Belgrade;Galatasaray Istanbul;FIBA YouTube;
+18:00;Eurocup Women Play-Off;GEAS Basket;Sopron Basket;FIBA YouTube;
+18:00;Eurocup Women Play-Off;Gorzów Basketball;Besiktas JK Istanbul;FIBA YouTube;
+18:00;Eurocup Women Play-Off;KSC Szekszard;UNI Györ;FIBA YouTube;
+18:00;Eurocup Women Play-Off;Kibirkstis Vilnius;ASVEL Lyon-Villeurbanne;FIBA YouTube;
+18:00;Eurocup Women Play-Off;Rutronik Stars Keltern;Tarbes GB;FIBA YouTube;
+19:00;Título Mundial Femenino Peso Supermosca;A. González;M. Romero;DAZN (Regístrate);
+19:15;FIBA Europe Cup;PAOK Salónica;CSM Oradea;FIBA YouTube;
+20:00;Eurocup Women Play-Off;BAXI Ferrol;Castors Braine;FIBA YouTube;TVG2 (Galicia);
