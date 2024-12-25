@@ -8176,3 +8176,4 @@
 04:00;NBA Liga Regular;Golden State Warriors;Indiana Pacers;NBA League Pass;
 04:30;NBA Liga Regular;Los Angeles Lakers;Detroit Pistons;NBA League Pass;
 18:00;NBA Liga Regular;New York Knicks;San Antonio Spurs;NBA League Pass;
+18:00;NBA Liga Regular;New York Knicks;San Antonio Spurs;NBA League Pass;
