@@ -24,8 +24,8 @@
 11:30;Torneo de Hong Kong 1/4 de Final;K. Nishikori;C. Norrie;ATP Tennis TV;
 18:00;Eurocup Liga Regular;BC Wolves;Joventut Badalona;Esport3 (Cataluña);
 18:45;Euroliga Liga Regular;Fenerbahce Istanbul;Anadolu Efes Istanbul;M+ Deportes 2 (64);
+19:00;Copa del Rey 1/16 de Final Estadio Municipal de Pasarón, Pontevedra;Pontevedra;Mallorca;M+ Copa del Rey (M52 O107);LaLiga TV M4;
 19:00;Copa del Rey 1/16 de Final;Granada CF;Getafe;M+ LaLiga TV 3 (M167 O270);LaLiga TV M2;
-19:00;Copa del Rey 1/16 de Final;Pontevedra;Mallorca;M+ Copa del Rey (M52 O107);LaLiga TV M4;
 19:00;Copa del Rey 1/16 de Final;Racing Ferrol;Rayo Vallecano;M+ LaLiga TV 4 (M168 O271);LaLiga TV M3;
 20:15;Euroliga Liga Regular;Panathinaikos BC;Virtus Bologna;M+ Deportes 3 (65);
 20:15;Euroliga Liga Regular;Paris Basketball;Barça Basket;M+ Deportes (63);
