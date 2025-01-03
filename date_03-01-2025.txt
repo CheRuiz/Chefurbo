@@ -31,5 +31,6 @@
 20:30;Euroliga Liga Regular;BC Partizan Beograd;Maccabi Tel Aviv BC;M+ Deportes 4 (191);
 21:00;Euroliga Liga Regular;Real Madrid Baloncesto;FC Bayern Basketball;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;La Liga EA Sports;Valencia CF;Real Madrid;Movistar Plus+ (M7);M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
+21:00;Primera Federación Futsal;Jaén FS;Córdoba FS;FEF TV;
 21:00;Rally Dakar;Prólogo;Bisha › Bisha (50 km - SS: 29 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
 23:00;WTA Torneo de Auckland 1/4 de Final;M. Keys;C. Tauson;WTA TV;
