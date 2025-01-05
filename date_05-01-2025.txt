@@ -7,6 +7,13 @@
 02:00;NBA Liga Regular;San Antonio Spurs;Denver Nuggets;NBA League Pass;
 02:30;NBA Liga Regular;Golden State Warriors;Memphis Grizzlies;NBA League Pass;
 04:30;NBA Liga Regular;Los Angeles Clippers;Atlanta Hawks;NBA League Pass;
+05:00;WTA Torneo de Auckland Final WTA 250;C. Tauson;N. Osaka;WTA TV;
+05:00;WTA Torneo de Brisbane Final WTA 500;A. Sabalenka;P. Kudermetova;WTA TV;
+07:30;United Cup Final Partido 1;C. Gauff;I. Swiatek;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
+09:00;United Cup Final Partido 2;T. Fritz;H. Hurkacz;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
+09:30;Torneo de Hong Kong Final ATP 250;K. Nishikori;A. Muller;ATP Tennis TV;
+10:10;Torneo de Brisbane Final ATP 250;R. Opelka;J. Lehecka;ATP Tennis TV;
+11:00;United Cup Final Partido 3 (Dobles);Estados Unidos;Polonia;ATP Tennis TV;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 12:00;Copa del Rey 1/16 de Final;Elche;UD Las Palmas;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
 12:00;Copa del Rey 1/16 de Final;Ourense CF;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV M2;
 12:00;Primera FEB Liga Regular;Baloncesto Fuenlabrada;CB Tizona Burgos;LaLiga+ Plus;La 8 Burgos;
