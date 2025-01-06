@@ -10556,3 +10556,9 @@
 10:35;WTA Torneo de Hobart 1ª Ronda;V. Kudermetova;E. Cocciaretto;WTA TV;
 19:00;Copa del Rey 1/16 de Final;CD Minera;Real Madrid;La 1 TVE;RTVE Play;
 23:30;Torneo de Auckland 1ª Ronda;L. Nardi;F. Cobolli;ATP Tennis TV;
+00:00;NBA Liga Regular;Cleveland Cavaliers;Charlotte Hornets;NBA League Pass;
+00:00;NBA Liga Regular;Washington Wizards;New Orleans Pelicans;NBA League Pass;
+00:30;NBA Liga Regular;Orlando Magic;Utah Jazz;NBA League Pass;
+01:00;NBA Liga Regular;Houston Rockets;Los Angeles Lakers;NBA League Pass;
+02:30;NBA Liga Regular;Golden State Warriors;Sacramento Kings;NBA League Pass;
+19:00;Copa del Rey 1/16 de Final;CD Minera;Real Madrid;La 1 TVE;RTVE Play;
