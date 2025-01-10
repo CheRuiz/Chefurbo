@@ -11496,3 +11496,12 @@
 12:05;Torneo de Adelaida Semifinal 2 ATP 250;M. Kecmanovic;S. Korda;ATP Tennis TV;
 20:45;Primera FEB Liga Regular;CB Tizona Burgos;Gipuzkoa Basket;LaLiga+ Plus;La 8 Burgos;
 21:00;Primera FEB Liga Regular;Zunder Palencia;CB Zamora;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
+01:00;NBA Liga Regular;Cleveland Cavaliers;Toronto Raptors;NBA League Pass;
+01:00;NBA Liga Regular;Detroit Pistons;Golden State Warriors;NBA League Pass;
+02:00;NBA Liga Regular;Memphis Grizzlies;Houston Rockets;NBA League Pass;
+02:30;NBA Liga Regular;Dallas Mavericks;Portland Trail Blazers;NBA League Pass;
+03:00;NBA Liga Regular;Phoenix Suns;Atlanta Hawks;NBA League Pass;
+03:00;NBA Liga Regular;Utah Jazz;Miami Heat;NBA League Pass;
+04:30;NBA Liga Regular;Los Angeles Lakers;Charlotte Hornets;NBA League Pass;
+20:45;Primera FEB Liga Regular;CB Tizona Burgos;Gipuzkoa Basket;LaLiga+ Plus;La 8 Burgos;
+21:00;Primera FEB Liga Regular;Zunder Palencia;CB Zamora;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
